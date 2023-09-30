@@ -1,0 +1,67 @@
+body, h1, h2, p {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  text-align: center;
+  color: #fff;
+  background-color: #f4a460;
+  padding: 20px;
+  font-size: 100px;
+}
+
+.about-me img {
+  border-radius: 50%;
+  width: 350px;
+  height: 350px;
+  margin: 0 auto;
+  display: block;
+}
+
+.about-me {
+  text-align: center;
+  background-color: #fff;
+  padding: 20px;
+}
+
+.about-me h2 {
+  color: #333;
+  border-style: double;
+  margin-top: 10px;
+  font-size: 150px;
+}
+
+.about-me p {
+  color: #555;
+  text-align: center;
+  margin: 15px 250px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 80px;
+  line-height: 1.5;
+}
+
+.about-me br {
+  line-height: 8.5;
+}
+
+footer {
+  text-align: center;
+  color: #fff;
+  background-color: #f4a460;
+  padding: 30px;
+  font-size: 60px;
+}
+
+footer a {
+  color: navy;
+  margin: 0 10px;
+  font-size: 60px;
+  text-decoration: underline;
+}
+
+footer a:hover {
+  color: #ff5733;
+}
+
+/*# sourceMappingURL=aboutme.62280cdc.css.map */
